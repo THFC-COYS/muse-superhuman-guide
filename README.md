@@ -1,8 +1,8 @@
-# Superhuman: An Everyday Human's Guide to Muse
+# The Next Version of Human: An Everyday Guide to Muse
 
 You don't need to be technical. You don't need to understand AI. You just need to be willing to hand work to an agent and judge the results.
 
-This guide takes an everyday human from zero to superhuman with Meta's Muse, one short chapter at a time. Each chapter is a five-minute read with one thing to try today.
+This isn't about becoming superhuman. It's about becoming the next version of human. One short chapter at a time, each a five-minute read with one thing to try today.
 
 ## The chapters
 
