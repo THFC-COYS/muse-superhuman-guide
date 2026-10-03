@@ -18,4 +18,4 @@ That's a deeper partnership than boss and employee. It's closer to how a great f
 
 The people who thrive won't be the ones who use AI the most. They'll be the ones with the best judgment about when to trust it, when to check it, and when to overrule it. That's not a technical skill. It's a human one.
 
-You're not becoming a machine. You're becoming more human than the process ever let you be.
+You're not becoming superhuman. You're not becoming a machine. You're becoming the next version of human, which is more human than the process ever let you be.
